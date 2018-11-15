@@ -8,4 +8,5 @@ Apps improve working efficiency
 5. xshell
 6. filezilla
 7. notepade++
-8. 
+8. shadowsocks
+9. typora
