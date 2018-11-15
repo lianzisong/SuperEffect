@@ -10,3 +10,4 @@ Apps improve working efficiency
 7. notepade++
 8. shadowsocks
 9. typora
+10. xmind
