@@ -11,3 +11,4 @@ Apps improve working efficiency
 8. shadowsocks
 9. typora
 10. xmind
+11. Free Download Manager
