@@ -12,3 +12,4 @@ Apps improve working efficiency
 9. typora
 10. xmind
 11. Free Download Manager
+12. DropBox
