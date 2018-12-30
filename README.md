@@ -13,3 +13,4 @@ Apps improve working efficiency
 10. xmind
 11. Free Download Manager
 12. DropBox
+13. DevDoc(https://devdocs.io/)
