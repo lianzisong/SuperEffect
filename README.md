@@ -14,3 +14,4 @@ Apps improve working efficiency
 11. Free Download Manager
 12. DropBox
 13. DevDoc(https://devdocs.io/)
+14. Resilio Sync
